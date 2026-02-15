@@ -53,7 +53,7 @@ app.get("/", (req, res) => {
         <p>
           Esta aplicación se está ejecutando dentro de un
           <strong>contenedor Docker</strong> y desplegada en
-          <strong>AWS Elastic Beanstalk</strong>.
+          <strong>AWS Elastic Beanstalk   bla bla </strong>.
         </p>
         <div class="tag">Node.js · Docker · AWS</div>
       </div>
